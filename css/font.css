@@ -1,0 +1,22 @@
+@font-face{
+    font-family:Josefin Slab;
+    src: url(font/Josefin_Slab/JosefinSlab-Regular.ttf);    
+}
+@font-face{
+    font-family:Josefin Sans;
+    src: url(font/Josefin_Sans/JosefinSans-Regular.ttf);    
+}
+@font-face{
+    font-family:Roboto;
+    src: url(font/Roboto/Roboto-Regular.ttf);    
+}
+
+h1,h3,h4{
+    font-family: 'Josefin Slab', serif;
+}
+#logo,#sans,footer,h5,h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#roboto,a,p,li{
+    font-family: 'Roboto', sans-serif;
+}
