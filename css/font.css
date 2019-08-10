@@ -17,6 +17,6 @@ h1,h3,h4{
 #logo,#sans,footer,h5,h2{
     font-family: 'Josefin Sans', sans-serif;
 }
-#roboto,a,p,li{
+#roboto,a,p,li,.Ft{
     font-family: 'Roboto', sans-serif;
 }
